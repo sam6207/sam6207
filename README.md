@@ -1,5 +1,5 @@
-  Sameer Shukla:
- I am Sameer Shukla  Full Stack Developer skilled in React.js, Node.js, Express.js, and MySQL.<br> Currently working as a Full Stack Developer Intern at C3iHub, IIT Kanpur,<br> with a strong interest in building scalable web applications <br>and solving real-world problems through technology<br>Tools:- Docker, git/GitHub <br>Frameworks:- Express.js<br>Languages:- C,C++,JAVA,PYTHON,JAVASCRIPT(ES6), NODE.JS, <br>
+Sameer Shukla:
+       I am Sameer Shukla  Full Stack Developer skilled in React.js, Node.js, Express.js, and MySQL.<br> Currently working as a Full Stack Developer Intern at C3iHub, IIT Kanpur,<br> with a strong interest in building scalable web applications <br>and solving real-world problems through technology<br>Tools:- Docker, git/GitHub <br>Frameworks:- Express.js<br>Languages:- C,C++,JAVA,PYTHON,JAVASCRIPT(ES6), NODE.JS, <br>
 
 
  Socials:
